@@ -1,0 +1,1 @@
+# Cache models using Redis
