@@ -12,7 +12,7 @@ W ramach przedmiotu przewidziano 4 moduły, które można zaliczyć w jednej z d
 | No. | Moduł                             | Godziny | Max pkt | Udział % |  Deadline  |
 | :-: | :-------------------------------- | :-----: | ------: | -------: | :--------: |
 |  0  | Intro & Outro                     |    4    |       0 |      0.0 |    ---     |
-|  1  | [MongoDB](/mongodb/README.md)     |    8    |      40 |     33.3 | 26.03.2024 |
+|  1  | [MongoDB](/mongodb/README.md)     |    8    |      40 |     33.3 | 08.04.2024 |
 |  2  | [Redis](/redis/README.md)         |    6    |      30 |     25.0 | 23.04.2024 |
 |  3  | [Neo4j](/neo4j/README.md)         |    6    |      30 |     25.0 | 07.05.2024 |
 |  4  | [Cassandra](/cassandra/README.md) |    4    |      20 |     16.7 | 21.05.2024 |
