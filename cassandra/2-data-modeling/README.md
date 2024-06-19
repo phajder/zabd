@@ -5,7 +5,7 @@
     2. Czym jest Partition Key? Jaką pełni rolę? Jak jest wykorzystywany w zapytaniach?
 2. **[5 pkt]** Czym jest denormalizacja? W jakim celu się ją wykonuje? Jaki jest jej cel w Cassandrze?
     1. W jaki sposób zamodelować ten system w Cassandrze? Od czego należy zacząć?
-    2. Stwórz schemat prostej wypożyczalni filmów, składający się z następujących tabel: wideo, gatunek oraz tabelę wypożyczeń (user, video).Dodatkowo wykorzystaj tabelę użytkowników z lab9.
+    2. Stwórz schemat prostej wypożyczalni filmów, składający się z następujących tabel: wideo, gatunek oraz tabelę wypożyczeń (user, video). Dodatkowo wykorzystaj tabelę użytkowników z [poprzedniego labu](/cassandra/1-fundamentals/README.md).
     3. W jaki sposób skonstruować temat w bazie relacyjnej? Przedstaw diagram ERD.
     4. Napisz zapytania:
         1. Wypożyczone przez użytkownika filmy. 
