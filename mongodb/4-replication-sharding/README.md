@@ -6,6 +6,7 @@
     - Jakie typy węzłów wyróżniane są w replice? Przedstaw ich możliwe przypadki użycia oraz pozwalające na to fragmenty kodu/konfiguracji.
     - Dlaczego liczba węzłów w replice powinna być nieparzysta? Omów na przykładzie.
     - Jakie parametry konfiguracji węzłów repliki są do dyspozycji administratora? Do czego można je wykorzystać?
+    - Czym są tryby `readPreference` (`primary`, `primaryPreferred`, `secondary`, `secondaryPreferred`, `nearest`)? Jakie są konsekwencje dla spójności odczytu i rozkładu obciążenia przy każdym z nich? W jakich scenariuszach uzasadnione jest czytanie z węzłów secondary, a kiedy jest to ryzykowne?
 2.	**[3 pkt]** Sharded cluster:
     - Czym jest sharding i sharded cluster w MongoDB? Przedstaw budowę takiego klastra, wskazując niezbędne do jego prawidłowego funkcjonowania usługi (węzły).
     - Jak można wykorzystać replikację w shardingu? Wskaż, które z węzłów mogą być replikowane i w jaki sposób jest to realizowane.
@@ -18,3 +19,5 @@
 4.	**[2 pkt]** Zapytania na kolekcjach poddanych shardingowi:
     - W jaki sposób realizowane jest zapytanie w shardowanym klastrze? Przedstaw dowolny przykład, posługując się dostępnymi w architekturze typami węzłów.
     - Czym są i jaka jest różnica między zjawiskami scatter gather a targeted queries? Wyjaśnij na przykładzie zapytań, wykorzystujących te zjawiska.
+
+**Rozszerzenie (nieobowiązkowe):** Czym są Change Streams w MongoDB? Jak działają w oparciu o oplog repliki? Przedstaw przykład nasłuchiwania zmian w kolekcji i omów ich zastosowanie w architekturze reaktywnej (np. synchronizacja cache, audyt, powiadamianie o zdarzeniach). Jakie są ograniczenia Change Streams w środowisku bez replica set?
