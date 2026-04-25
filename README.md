@@ -1,4 +1,4 @@
-# Zaawansowane Architektury Baz Danych 2024
+# Zaawansowane Architektury Baz Danych 2026
 
 ## Zaliczenie w liczbach
 
