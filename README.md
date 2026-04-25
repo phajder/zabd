@@ -9,24 +9,23 @@ W ramach przedmiotu przewidziano 4 moduły, które można zaliczyć w jednej z d
 
 ### Moduły i punktacje
 
-| No. | Moduł                             | Godziny | Max pkt | Udział % |  Deadline  |
-| :-: | :-------------------------------- | :-----: | ------: | -------: | :--------: |
-|  0  | Intro & Outro                     |    4    |       0 |      0.0 |    ---     |
-|  1  | [MongoDB](/mongodb/README.md)     |    8    |      40 |     33.3 | 09.04.2024 |
-|  2  | [Redis](/redis/README.md)         |    6    |      30 |     25.0 | 23.04.2024 |
-|  3  | [Neo4j](/neo4j/README.md)         |    6    |      30 |     25.0 | 07.05.2024 |
-|  4  | [Cassandra](/cassandra/README.md) |    4    |      20 |     16.7 | 21.05.2024 |
+| No. | Moduł                             | Godziny | Max pkt | Udział % |
+| :-: | :-------------------------------- | :-----: | ------: | -------: |
+|  0  | Intro & Outro                     |    4    |       0 |      0.0 |
+|  1  | [MongoDB](/mongodb/README.md)     |    8    |      40 |     40.0 |
+|  2  | [Redis](/redis/README.md)         |    6    |      30 |     30.0 |
+|  3  | [Neo4j](/neo4j/README.md)         |    6    |      30 |     30.0 |
 
 ### Ocena a liczba punktów
 
 | Ocena | Zakres punktów |
 | :---: | :------------: |
-|  2.0  |      0-59      |
-|  3.0  |     60-71      |
-|  3.5  |     72-83      |
-|  4.0  |     84-95      |
-|  4.5  |     96-107     |
-|  5.0  |    108-120     |
+|  2.0  |      0-49      |
+|  3.0  |     50-59      |
+|  3.5  |     60-69      |
+|  4.0  |     70-79      |
+|  4.5  |     80-89      |
+|  5.0  |     90-100     |
 
 ## Przydatne materiały
 
