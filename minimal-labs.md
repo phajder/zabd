@@ -10,8 +10,8 @@ Do zaliczenia MongoDB należy przedstawić ukończenie jednego wybranego learnin
 * [MongoDB Node.js Developer Path](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path)
 
 
-## Redis (15 pkt, 12.50%)
-Do zaliczenia Redisa należy przedstawić ukończenie jednego wybranego learning path z RedisLabs University:
+## Valkey (15 pkt, 12.50%)
+Do zaliczenia tego modułu należy przedstawić ukończenie jednego wybranego learning path z Redis University. Kursy opisują ten sam protokół i API, który implementuje Valkey — są w pełni aktualne. Kontekst przejścia Redis → Valkey opisano w [README modułu](/redis/README.md).
 * [Redis for Java Developers](https://university.redis.com/courses/ru102j/)
 * [Redis for .NET Developers](https://university.redis.com/courses/ru102n/)
 * [Redis for Python Developers](https://university.redis.com/courses/ru102py/)

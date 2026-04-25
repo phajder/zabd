@@ -6,10 +6,10 @@
 3. [Aggregation Framework](/mongodb/3-aggregation/README.md)
 4. [MongoDB Replication and sharding](/mongodb/4-replication-sharding/README.md)
 
-## Redis (30 pkt, 30.0%)
-1. [Redis fundamentals](/redis/1-fundamentals/README.md)
+## Valkey (30 pkt, 30.0%)
+1. [Valkey fundamentals](/redis/1-fundamentals/README.md)
 2. [Cache models](/redis/2-cache-models/README.md)
-3. [Redis Stream](/redis/3-streams/README.md)
+3. [Streams](/redis/3-streams/README.md)
 
 ## Neo4j (30 pkt, 30.0%)
 1. [Neo4j fundamentals](/neo4j/1-fundamentals/README.md)
