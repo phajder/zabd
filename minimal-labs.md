@@ -12,11 +12,12 @@ Do zaliczenia MongoDB należy przedstawić ukończenie jednego wybranego learnin
 
 ## Valkey (15 pkt, 12.50%)
 Do zaliczenia tego modułu należy przedstawić ukończenie jednego wybranego learning path z Redis University. Kursy opisują ten sam protokół i API, który implementuje Valkey — są w pełni aktualne. Kontekst przejścia Redis → Valkey opisano w [README modułu](/redis/README.md).
-* [Redis for Java Developers](https://university.redis.com/courses/ru102j/)
-* [Redis for .NET Developers](https://university.redis.com/courses/ru102n/)
-* [Redis for Python Developers](https://university.redis.com/courses/ru102py/)
-* [Redis for JavaScript Developers](https://university.redis.com/courses/ru102js/)
 
+Dostępne ścieżki można znaleźć [tutaj](https://university.redis.io/library/?custom_fields__persona=Developer&contentType=learningpath). Należy wybrać jedną z następujących:
+* Redis for Java developers
+* Redis for JavaScript developers
+* Redis for .NET developers
+* Redis for Python developer
 
 ## Neo4j (15 pkt, 12.50%)
 Do zaliczenia Neo4j należy przedstawić ukończenie jednego wybranego learning path z Neo4j Graph Academy:
